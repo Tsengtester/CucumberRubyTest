@@ -1,0 +1,13 @@
+[caps]
+platformName = "Android"
+deviceName = "emulator-5554"
+app = "./APP/pingpay-wallet-android_0.6.0-production-release.apk"
+appActivity = "com.isuncloud.pingpay.ui.SplashActivity"
+appPackage = "com.isuncloud.pingpaywallet"
+autoGrantPermissions = true
+automationName = "UiAutomator2"
+
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false

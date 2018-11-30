@@ -1,0 +1,26 @@
+{
+    "IndexPage" : "action_bar_root",
+    "CreateWalletBtn" : "createWalletText",
+    "ImportWalletBtn" : "importWalletText",
+    "privacyAndTerm" : "privacyAndTerm",
+    "Check" : "checkBox",
+    "PageTitle" : "titleText",
+    "BymnemonicBtn" : "mnemonicButton",
+    "BykeystoreBtn" : "keystoreButton",
+    "BackBtn" : "btnBack",
+    "BarTitle" : "toolbarTitle",
+    "NoteText" : "warningText",
+    "MnemonicText_x" : "/android.widget.LinearLayout[4]/android.view.ViewGroup/android.widget.EditText",
+    "SetPassword_x" : "android.widget.EditText[@text='8-20 個字元，至少各一英文數字']",
+    "DoublePassword_x" : "/android.widget.LinearLayout[4]/android.view.ViewGroup/android.widget.EditText",
+    "ConfirmBtn" : "confirmText"
+
+
+
+
+
+
+
+
+
+}
